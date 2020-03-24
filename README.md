@@ -1,6 +1,6 @@
 # BackupDirectoy
 Utility Python script to backup a directory.
-Created by James Del Pret 01/11/19
+Created by James Del Prete 01/11/19
 
 Backup.py:
     This program will copy a directory and all the files within that directory to a backup
